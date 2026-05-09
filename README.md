@@ -9,7 +9,6 @@ This is the official repository for our recent work: FEBNet
   <img src="Figures/Tradeoff.jpg" alt="The trade-off between inference speed (FPS) and segmentation accuracy (mIoU) for real-time models" width="600"/></br>
   <span align="center">The trade-off between inference speed (FPS) and segmentation accuracy (mIoU) for real-time models on the Cityscapes validation set.</span> 
 </p>
-Red pentagons represent our models, and cyan diamonds indicate other models. The experimental results demonstrate that our FEBNet family achieves state-of-the-art performance.
 
 
 * Proposing FEBNet that integrates frequency-domain modeling with bilateral architecture.
